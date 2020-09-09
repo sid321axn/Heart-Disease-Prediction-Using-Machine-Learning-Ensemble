@@ -75,7 +75,7 @@ I have done model evaluation based on following sklearn metric.
 - [Cross Validation Score] (https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
 - [Confusion Matrix] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
 - [Plotting ROC-AUC Curve] (https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
-- [Plotting Precision recall Curve](https://scikitlearn.org/stable/auto_examples/model_selection/plot_precision_recall.html#:~:text=The%20precision%2Drecall%20curve%20shows,a%20low%20false%20negative%20rate.)
+- [Plotting Precision recall Curve] (https://acutecaretesting.org/en/articles/precision-recall-curves-what-are-they-and-how-are-they-used)
 - [Sensitivity and Specitivity] (https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 - [Classification Error] (https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 - [Log Loss] (https://www.kaggle.com/dansbecker/what-is-log-loss#:~:text=Log%20Loss%20is%20a%20slight,by%20understanding%20the%20likelihood%20function.)
