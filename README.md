@@ -72,12 +72,12 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ## Model Evaluation :
 I have done model evaluation based on following sklearn metric.
-- [Cross Validation Score] (https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
-- [Confusion Matrix] (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
-- [Plotting ROC-AUC Curve] (https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
-- [Plotting Precision recall Curve] (https://acutecaretesting.org/en/articles/precision-recall-curves-what-are-they-and-how-are-they-used)
-- [Sensitivity and Specitivity] (https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
-- [Classification Error] (https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
-- [Log Loss] (https://www.kaggle.com/dansbecker/what-is-log-loss#:~:text=Log%20Loss%20is%20a%20slight,by%20understanding%20the%20likelihood%20function.)
-- [Mathew Correlation coefficient] (https://www.kaggle.com/dansbecker/what-is-log-loss#:~:text=Log%20Loss%20is%20a%20slight,by%20understanding%20the%20likelihood%20function.)
+1. [Cross Validation Score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
+2. [Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
+3. [Plotting ROC-AUC Curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+4. [Plotting Precision recall Curve](https://acutecaretesting.org/en/articles/precision-recall-curves-what-are-they-and-how-are-they-used)
+5. [Sensitivity and Specitivity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+6. [Classification Error](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+7. [Log Loss](https://www.kaggle.com/dansbecker/what-is-log-loss#:~:text=Log%20Loss%20is%20a%20slight,by%20understanding%20the%20likelihood%20function.)
+8. [Mathew Correlation coefficient](https://www.kaggle.com/dansbecker/what-is-log-loss#:~:text=Log%20Loss%20is%20a%20slight,by%20understanding%20the%20likelihood%20function.)
 
